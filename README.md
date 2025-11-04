@@ -9,6 +9,5 @@ A simple console-based Python task manager application.
 
 ## Usage
 Run the app:
-```bash
-python main.py
-```
+1 Open terminal in project folder
+2 Run:
